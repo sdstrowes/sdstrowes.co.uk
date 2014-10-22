@@ -1,0 +1,210 @@
+body
+{
+  /* font-family: "Lucida Grande", Verdana, Arial, Helvetica, sans-serif; */
+  font-family: serif;
+}
+
+nav
+{
+	width: 800px;
+	margin: auto;
+	font-size: 1.0em;
+}
+
+section
+{
+        width: 800px;
+        margin: auto;
+}
+
+header
+{
+  text-decoration: none;
+}
+
+#header
+{
+	width: 868px;
+	margin: 0px auto;
+	height: 58px;
+	text-align: left;
+	padding: 16px;
+	background-image: url(http://sdstrowes.co.uk/images/header.png);
+}
+
+#header a
+{
+	color: #fff;
+	text-decoration: none;
+}
+
+#menu
+{
+	margin: 0px auto;
+	width: 900px;
+	text-align: center;
+}
+
+ul#navigation
+{
+	margin-left: 0;
+	padding-left: 0;
+	white-space: nowrap;
+}
+
+ul p
+{
+	margin-top: 0em;
+	margin-bottom: 0em;
+}
+
+td.nowrap
+{
+	white-space:nowrap;
+	vertical-align:top;
+}
+
+table.rightalign
+{
+	white-space:nowrap;
+	text-align:right;
+}
+
+#navigation li
+{
+	display: inline;
+	list-style-type: none;
+}
+
+#navigation a { padding: 3px 10px; }
+
+#navigation a:link, #navigation a:visited
+{
+	text-decoration: none;
+}
+
+#navigation a:hover
+{
+	background-color: #ddd;
+}
+
+#content
+{
+	width: 800px;
+	margin: auto;
+}
+
+h1 { font-size: 2em; }
+
+header a { text-decoration: none; color: #000; }
+
+h1 a:link a:hover a:active a:visited { text-decoration: none; }
+
+h2 { font-size: 1.5em; }
+h3 { font-size: 1.17em; }
+h5 { font-size: .83em; }
+h6 { font-size: .75em; }
+
+#content img.inlineImage
+{
+	float: right;
+	margin: 16px;
+	border: none;
+}
+
+#content img
+{
+	border: none;
+}
+
+#footnote
+{
+	font-size: 0.8em;
+	font-style: italic;
+}
+
+/* ul.publicationList */
+/* { */
+/* 	list-style-type: none; */
+/* } */
+
+/* li.publication */
+/* { */
+/* 	margin-top: 1em; */
+/* 	background: white; */
+/* } */
+
+/* li.publication:nth-child(odd) */
+/* { */
+/* 	margin-top: 1em; */
+/* 	background: #eee; */
+/* } */
+
+
+#footnote
+{
+	width: 800px;
+	margin: auto;
+	font-size: 0.9em;
+}
+
+#publicationList ol {
+  margin:20px 0;
+  padding:0 0 0 35px;
+  background:#fff
+}
+
+#publicationList li {
+  margin:0;
+  padding: 0 0 0.5em 0;
+  color:#555;
+}
+
+#publicationList .title
+{
+  display:block;
+  color:#666;
+  margin:0 2em 0 0;
+}
+
+#publicationList .authors
+{
+  display:block;
+  color:#666;
+  margin:0 2em 0 1em;
+}
+
+#publicationList .venue
+{
+  display:block;
+  color:#666;
+  margin:0 2em 0 1em;
+}
+
+#publicationList .date
+{
+  display:block;
+  color:#666;
+  margin:0 2em 0 1em;
+}
+
+#copyright
+{
+	width: 800px;
+	color: #aaa;
+	font-size: 0.8em;
+	margin: auto;
+}
+
+#copyright a
+{
+	color: #aaa;
+	text-decoration: underline;
+}
+
+#copyright a:hover
+{
+	color: #fff;
+	background-color: #aaa;
+	text-decoration: none;
+}
