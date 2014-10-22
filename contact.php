@@ -56,6 +56,7 @@ td.nowrap
 <li><a href="https://www.flickr.com/photos/sdstrowes/">Flickr</a></li>
 <li><a href="https://www.last.fm/user/sdstrowes">last.fm</a></li>
 <li><a href="https://pinboard.in/u:sdstrowes">Pinboard</a></li>
+<li><a href="https://www.strava.com/athletes/2062924">Strava</a></li>
 <li>Or whatevr else.</li>
 </ul>
 
