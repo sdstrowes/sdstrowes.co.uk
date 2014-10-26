@@ -4,14 +4,18 @@
 <head>
 	<title>Stephen D. Strowes</title>
 	<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />
-	<link rel="stylesheet" href="http://www.sdstrowes.co.uk/style.css" type="text/css" media="all" />
+	<link href="/style.css" rel="stylesheet" />
+	<link href="/bootstrap/css/bootstrap.min.css" rel="stylesheet" />
+
+	<?php include( "./ga.js" ) ?>
+
 </head>
 
 <body>
 
 <?php include( "../../header.php" ) ?>
 
-<div id="content">
+<div class="container-fixed">
 
 <h3>An Experimental Study of Client-Side Spotify Peering Behaviour</h3>
 

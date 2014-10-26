@@ -4,7 +4,8 @@
 <head>
         <title>Stephen D. Strowes :: Fundamental Comp Sci concepts for schools</title>
         <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />
-        <link rel="stylesheet" href="http://www.sdstrowes.co.uk/style.css" type="text/css" media="all" />
+	<link href="/style.css" rel="stylesheet" />
+	<link href="/bootstrap/css/bootstrap.min.css" rel="stylesheet" />
 
 	<?php include( "./ga.js" ) ?>
 
@@ -14,7 +15,7 @@
 
 <?php include( "./header.php" ) ?>
 
-<div id="content">
+<div class="container-fixed">
 
 <h2>Thinking Skills for Schools</h2>
 
