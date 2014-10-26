@@ -49,15 +49,15 @@ In 2012, I completed <a href="publications.php#theses">my PhD</a>.</p>
 <h3>Up to now:</h3>
 <table class="table">
 	<tr>
-		<td class="nowrap"><b>2013 -- current:</b></td>
+		<td class="nowrap"><b>2013&ndash;current:</b></td>
 		<td>IPv6 Evangelist, Yahoo</td>
 	</tr>
 	<tr>
-		<td class="nowrap"><b>2012 -- 2013:</b></td>
+		<td class="nowrap"><b>2012&ndash;2013:</b></td>
 		<td>Senior Engineer, Boundary</td>
 	</tr>
 	<tr>
-		<td class="nowrap"><b>2007 -- 2012:</b></td>
+		<td class="nowrap"><b>2007&ndash;2012:</b></td>
 		<td>PhD student at the <a href="http://www.gla.ac.uk/">University of Glasgow</a>, supervised by <a href="http://csperkins.org/">Colin Perkins</a>.
 			<a href="publications/sdstrowes-phd-thesis.pdf">My thesis</a> is available, as are related publications
 			(<a href="publications/sdstrowes-gi2011.pdf">1</a>, <a href="publications/sdstrowes-2012-kcores.pdf">2</a>).
@@ -74,7 +74,7 @@ In 2012, I completed <a href="publications.php#theses">my PhD</a>.</p>
 		</td>
 	</tr>
 	<tr>
-		<td class="nowrap"><b>2005 -- 2007:</b></td>
+		<td class="nowrap"><b>2005&ndash;2007:</b></td>
 		<td>Research Associate in the <a href="http://www.gla.ac.uk/schools/computing/research/researchgroups/embeddednetworkedanddistributedsystems/">ENDS research group</a> at the
 			<a href="http://www.gla.ac.uk/">University of Glasgow</a>, working on the <a href="http://www.dcs.gla.ac.uk/amuse/">AMUSe</a>
 			project in collaboration with <a href="http://www.doc.ic.ac.uk/">Imperial College London</a>.
@@ -120,13 +120,13 @@ and <a href="http://tinytocs.org/">Tiny ToCS Volume 3</a>.</p>
 
 <ul>
 
-<li><b>2007 -- 2012: PhD in Computing Science, University of Glasgow</b>
+<li><b>2007&ndash;2012: PhD in Computing Science, University of Glasgow</b>
 <br />
 Thesis title: "<a href="publications/sdstrowes-phd-thesis.pdf">Compact Routing for the Future Internet.</a>"<br />
 I successfully defended my work on 11 January 2012, and submitted the
 final copy in February 2012.</li>
 
-<li><b>2000 -- 2005: M.Sci. in Computing Science, University of Glasgow</b>
+<li><b>2000&ndash;2005: M.Sci. in Computing Science, University of Glasgow</b>
 <br />
 Dissertation title:
 "<a href="http://sdstrowes.co.uk/publications/sdstrowes-p2pac.pdf">Peer-to-Peer
