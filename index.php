@@ -5,21 +5,7 @@
 	<meta name="viewport" content="width=device-width, initial-scale=1" />
 	<title>Stephen D. Strowes</title>
 
-	<style type="text/css">
-.container-fixed
-{
-	width: 800px;
-	margin: auto;
-}
-td.nowrap
-{
-        white-space:nowrap;
-        vertical-align:top;
-}
-
-	</style>
-
-	<!-- Bootstrap -->
+	<link href="/style.css" rel="stylesheet" />
 	<link href="bootstrap/css/bootstrap.min.css" rel="stylesheet" />
 
 	<?php include( "./ga.js" ) ?>
