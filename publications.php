@@ -220,8 +220,10 @@ Louvain, Louvain-la-Neuve</p>
 
 </ol>
 
+</div> <!-- publication list div -->
+<div>
 
-<a name="theses" />
+<a name="theses"></a>
 <h3>Theses</h3>
 
 <ol>
