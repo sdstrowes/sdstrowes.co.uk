@@ -7,7 +7,7 @@
 	<link href="/style.css" rel="stylesheet" />
 	<link href="/bootstrap/css/bootstrap.min.css" rel="stylesheet" />
 
-	<?php include( "./ga.js" ) ?>
+	<?php include( "/ga.js" ) ?>
 
 </head>
 
