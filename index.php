@@ -27,7 +27,7 @@
 
 <h3>In brief</h3>
 
-<img class="pull-right" src="images/me.jpg" alt="me" />
+<img class="pull-right header-thumb" src="images/me.jpg" alt="me" />
 
 <p>I work with networks and network protocols. I know BGP, IPv{46},
 NAT and NAT traversal, P2P, and Netflow. I give talks regularly.</p>
@@ -47,7 +47,7 @@ In 2012, I completed <a href="publications.php#theses">my PhD</a>.</p>
 </ul>
 
 <h3>Up to now:</h3>
-<table class="table">
+<table class="table-striped">
 	<tr>
 		<td class="nowrap"><b>2013&ndash;current:</b></td>
 		<td>IPv6 Evangelist, Yahoo</td>
@@ -98,7 +98,7 @@ and <a href="http://tinytocs.org/">Tiny ToCS Volume 3</a>.</p>
 		programming); NS3 (Networked Systems); NSA3 (Network Systems Architecture); OS3 (Operating Systems 3); and a Unix crash course.
 	</li>
 	<li>
-		<b>Exam marking</b>: I marked the final exam for Advanced Programming 3.
+		<b>Exam marking</b>: I marked final exam scripts for Advanced Programming 3.
 	</li>
 	<li>
 		<b>Supervision</b>: I have supervised Honours and Masters-level students.

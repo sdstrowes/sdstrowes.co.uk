@@ -26,7 +26,7 @@
 
 <div>
 
-<img class="pull-right" src="images/contact.jpg" alt="Sillhouette of Glasgow University." />
+<img class="pull-right header-thumb" src="images/contact.jpg" alt="Sillhouette of Glasgow University." />
 
 <p>I am fairly easy to find.</p>
 <ul>

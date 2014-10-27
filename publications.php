@@ -25,7 +25,7 @@
 
 <div>
 
-<img class="inlineImage pull-right" src="../images/publications.jpg" alt="Pen on paper." />
+<img class="pull-right header-thumb" src="../images/publications.jpg" alt="Pen on paper." />
 
 
 <h2>Publications</h2>
