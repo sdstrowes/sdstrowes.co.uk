@@ -49,7 +49,7 @@ In 2012, I completed <a href="publications.php#theses">my PhD</a>.</p>
 <h3>Up to now:</h3>
 <table class="table-striped">
 	<tr>
-		<td class="nowrap"><b>2013&ndash;current:</b></td>
+		<td class="nowrap"><b>2013&ndash;now:</b></td>
 		<td>IPv6 Evangelist, Yahoo</td>
 	</tr>
 	<tr>
@@ -86,33 +86,27 @@ In 2012, I completed <a href="publications.php#theses">my PhD</a>.</p>
 
 <h3>Academic Contributions</h3>
 
-<p>I have a <a href="http://sdstrowes.co.uk/publications.php">list of publications</a>. I served on the technical program
-committee of the <a href="http://infocom.di.unimi.it/index.php/gicommitt.html">IEEE Global Internet Symposium 2013</a>,
-and <a href="http://tinytocs.org/">Tiny ToCS Volume 3</a>.</p>
-
-<p>I have taken on various additional responsibilities at various points. These include:</p>
-
 <ul>
 	<li>
-		<b>Undergraduate teaching</b>: I have tutored for various classes: AP3 (Advanced Programming); C3 (C
-		programming); NS3 (Networked Systems); NSA3 (Network Systems Architecture); OS3 (Operating Systems 3); and a Unix crash course.
+		I have a <a href="http://sdstrowes.co.uk/publications.php">list
+		of publications</a>. I served on the technical program
+		committee of the <a href="http://infocom.di.unimi.it/index.php/gicommitt.html">IEEE Global Internet Symposium 2013</a>,
+		and <a href="http://tinytocs.org/">Tiny ToCS Volume 3</a>.
 	</li>
 	<li>
-		<b>Exam marking</b>: I marked final exam scripts for Advanced Programming 3.
-	</li>
-	<li>
-		<b>Supervision</b>: I have supervised Honours and Masters-level students.
+		<b>Undergraduate teaching</b>: I have tutored various
+		undergraduate classes, covering C/Java programming; networked and distributed
+		systems; operating systems concepts; and Unix training. I have given lectures
+		on networked systems, marked exams, and also supervised Honours and
+		Masters-level students. If you would like to work with me, please <a
+		href="contact.php">get in touch</a>.
 	</li>
 	<li>
 		<b>Seminar coordination</b>: I organised and chaired weekly group seminars of the
 		<a href="http://www.gla.ac.uk/schools/computing/research/researchgroups/embeddednetworkedanddistributedsystems/">ENDS research group</a> at Glasgow.
 	</li>
 	<li>
-		<b>Student Recruitment</b>: I ran campus tours during the regular applicant information sessions scheduled by the University.
-	</li>
-	<li>
-		<b>Outreach</b>: I worked on two <a href="http://sdstrowes.co.uk/schools.php">science communication projects</a> aiming to bridge the
-		gap between Computing Science taught at university, and the computing courses offered in primary/secondary education.
+		<b>Student Recruitment and Outreach</b>: I ran campus tours, and I worked on two <a href="http://sdstrowes.co.uk/schools.php">science communication projects</a> aiming to bring computing science concepts to primary/secondary-level pupils.
 	</li>
 </ul>
 
