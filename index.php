@@ -8,7 +8,7 @@
 	<link href="/style.css" rel="stylesheet" />
 	<link href="bootstrap/css/bootstrap.min.css" rel="stylesheet" />
 
-	<?php include( "./ga.js" ) ?>
+	<?php include( "./piwik.js" ) ?>
 
 	<!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
 	<!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
@@ -27,34 +27,34 @@
 
 <h3>In brief</h3>
 
-<img class="pull-right header-thumb" src="images/me.jpg" alt="me" />
+<img class="pull-right header-thumb" src="images/me2.jpg" alt="me" />
 
-<p>I work with networks and network protocols. I know BGP, IPv{46},
-NAT and NAT traversal, P2P, and Netflow. I give talks regularly.</p>
+<p>I am an Internet researcher with a background in protocol deployment and
+measurement, currently working at <a href="https://ripe.net/">the RIPE NCC</a>.</p>
 
-<p>I have built distributed systems in C, Java, and Scala. With Scala, I also
-crafted highly parallelised
-distributed/multi-core tools.
-In 2012, I completed <a href="publications.php#theses">my PhD</a>.</p>
+<p>I focus on Internet protocol behaviour and evolution. I am especially
+interested in IPv6 deployment and the inherent challenges.
+I maintain a <a href="publications.php">list of publications</a>.</p>
 
-<p>Interesting things include:</p>
-<ul>
-	<li>Scalable routing protocols for the inter-domain Internet.</li>
-	<li>IPv4 growth and IPv4 address exhaustion.</li>
-	<li>IPv6 growth and IPv6 adoption.</li>
-	<li>NAT traversal techniques and the effect of NAT on the transport and application layers.</li>
-	<li>Peer-to-peer protocols for real-time communication.</li>
-</ul>
+<p>I received my Ph.D. in Computing Science from the University of Glasgow in
+2012, and my M.Sci. from the same institution in 2005. Since then, I have
+led the team building network monitoring agents hosted on tens of thousands of
+disparate hosts at Boundary, and managed the rollout of IPv6 at Yahoo on
+properties with hundreds of millions of users.</p>
 
-<h3>Up to now:</h3>
+<h3>History</h3>
 <table class="table-striped">
 	<tr>
-		<td class="nowrap"><b>2013&ndash;now:</b></td>
-		<td>IPv6 Evangelist, Yahoo</td>
+		<td class="nowrap"><b>2016&ndash;now:</b>&nbsp;&nbsp;</td>
+		<td>Senior Researcher, RIPE NCC.</td>
+	</tr>
+	<tr>
+		<td class="nowrap"><b>2013&ndash;2016:</b></td>
+		<td>IPv6 program lead, Yahoo.</td>
 	</tr>
 	<tr>
 		<td class="nowrap"><b>2012&ndash;2013:</b></td>
-		<td>Senior Engineer, Boundary</td>
+		<td>Team lead for network monitors and measurement, Boundary, Inc.</td>
 	</tr>
 	<tr>
 		<td class="nowrap"><b>2007&ndash;2012:</b></td>
@@ -84,29 +84,58 @@ In 2012, I completed <a href="publications.php#theses">my PhD</a>.</p>
 </table>
 
 
-<h3>Academic Contributions</h3>
+<h3>Research Community and Knowledge Transfer</h3>
 
 <ul>
 	<li>
-		I have a <a href="http://sdstrowes.co.uk/publications.php">list
-		of publications</a>. I served on the technical program
-		committee of the <a href="http://infocom.di.unimi.it/index.php/gicommitt.html">IEEE Global Internet Symposium 2013</a>,
-		and <a href="http://tinytocs.org/">Tiny ToCS Volume 3</a>.
+		I <a href="http://sdstrowes.co.uk/publications.php">publish frequently</a>.
 	</li>
 	<li>
-		<b>Undergraduate teaching</b>: I have tutored various
-		undergraduate classes, covering C/Java programming; networked and distributed
-		systems; operating systems concepts; and Unix training. I have given lectures
-		on networked systems, marked exams, and also supervised Honours and
-		Masters-level students. If you would like to work with me, please <a
-		href="contact.php">get in touch</a>.
+		I maintain <a href="https://calendar.google.com/calendar/embed?src=va2jku14sd7r4tpssc2dsjrkhc%40group.calendar.google.com&ctz=Europe/Amsterdam">a calendar of good/interesting measurement/networking
+		conferences</a>. The <a href="https://calendar.google.com/calendar/ical/va2jku14sd7r4tpssc2dsjrkhc%40group.calendar.google.com/public/basic.ics">ical feed is
+		here</a>. Please <a href="contact.php">contact me</a> with suggestions to add.
 	</li>
 	<li>
-		<b>Seminar coordination</b>: I organised and chaired weekly group seminars of the
+		I chaired weekly group seminars of the
 		<a href="http://www.gla.ac.uk/schools/computing/research/researchgroups/embeddednetworkedanddistributedsystems/">ENDS research group</a> at Glasgow.
 	</li>
 	<li>
-		<b>Student Recruitment and Outreach</b>: I ran campus tours, and I worked on two <a href="http://sdstrowes.co.uk/schools.php">science communication projects</a> aiming to bring computing science concepts to primary/secondary-level pupils.
+		I run a monthly lightning talk series at the RIPE NCC.
+	</li>
+</ul>
+
+<h4>Peer Review</h4>
+<ul>
+	<li> I have reviewed papers for various outlets, including:
+		<ul>
+		<li><a href="http://infocom.di.unimi.it/index.php/gicommitt.html">IEEE Global Internet Symposium 2013</a></li>
+		<li><a href="http://www.journals.elsevier.com/computer-networks/">Elsevier Computer Networks</a></li>
+		<li><a href="http://www.sigcomm.org/publications/computer-communication-review">SIGCOMM Computer Communication Review</a></li>
+		<li><a href="http://tinytocs.org/">Tiny ToCS Volumes 3 and 4</a></li>
+		<li><a href="https://synnetsys.github.io/topic2018/">TOPIC 2018</a></li>
+		<li><a href="http://wtmc.info/">WTMC 2019</a></li>
+		</ul>
+	</li>
+	<li>I am a reviewer for the <a href="https://www.ripe.net/participate/ripe/raci">RIPE NCC Academic Cooperation Initiative (RACI)</a></li>
+	<li>I review and shepherd articles for RIPE Labs.</li>
+</ul>
+
+<h4>Teaching</h4>
+
+<ul>
+	<li>
+		<b>Undergraduate teaching</b>: I tutored various
+		undergraduate classes, covering C/Java programming; networked and distributed
+		systems; operating systems concepts; and Unix training. 
+		I have supervised Honours and Masters-level students, and
+		marked undergraduate exams. I gave a <a
+		href="https://inst.eecs.berkeley.edu/~cs168/fa14/lectures/lec22-public.pdf">guest
+		lecture on IPv6 to undergraduates at Berkeley</a>.
+	</li>
+	<li>
+		<b>Outreach</b>: I worked on <a
+		href="http://sdstrowes.co.uk/schools.php">science communication projects</a>
+		to bring computing science concepts to primary/secondary-level pupils.
 	</li>
 </ul>
 
@@ -123,7 +152,7 @@ final copy in February 2012.</li>
 <li><b>2000&ndash;2005: M.Sci. in Computing Science, University of Glasgow</b>
 <br />
 Dissertation title:
-"<a href="http://sdstrowes.co.uk/publications/sdstrowes-p2pac.pdf">Peer-to-Peer
+"<a href="http://sdstrowes.co.uk/publications/sdstrowes-msci-dissertation.pdf">Peer-to-Peer
 Audio Conferencing</a>."<br />
 Graduated 1st class from the 5-year M.Sci. programme at the University
 of Glasgow. My Master's dissertation presents Orta, a network overlay

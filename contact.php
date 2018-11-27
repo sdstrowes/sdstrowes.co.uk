@@ -30,20 +30,17 @@
 
 <p>I am fairly easy to find.</p>
 <ul>
-	<li>Email: sdstrowes@gmail.com</li>
-	<li>Jabber: sdstrowes@gmail.com</li>
+	<li>Email: sdstrowes at gmail.com</li>
 	<li>Twitter: <a href="https://twitter.com/sdstrowes">@sdstrowes</a></li>
 </ul>
 
 <p>You can also find me in the following places:</p>
 <ul>
-<li><a href="https://keybase.io/sdstrowes">Keybase</a></li>
 <li><a href="https://www.linkedin.com/in/sdstrowes">LinkedIn</a></li>
 <li><a href="https://www.flickr.com/photos/sdstrowes/">Flickr</a></li>
-<li><a href="https://www.last.fm/user/sdstrowes">last.fm</a></li>
+<li><a href="https://www.instagram.com/sdstrowes/">Instagram</a></li>
 <li><a href="https://pinboard.in/u:sdstrowes">Pinboard</a></li>
 <li><a href="https://www.strava.com/athletes/2062924">Strava</a></li>
-<li>Or whatevr else.</li>
 </ul>
 
 <h3>About This Site</h3>
@@ -58,7 +55,7 @@ href="http://sdstrowes.co.uk">sdstrowes.co.uk</a> since 2004, and have
 always intended that it hold exactly this sort of information. I bought <a href="http://youshottheinvisibleswordsman.co.uk">youshottheinvisibleswordsman.co.uk</a> in 2008, and use it as my primary blog domain.</p>
 
 <p>These sites are hosted on <a
-href="https://www.linode.com/">Linode</a> (<a href="https://www.linode.com/?r=73a8c2c9039aecef963a12c7bd0ca403843cbda3">referral link</a>). Linode are good people who <a href="https://blog.linode.com/2011/05/03/linode-launches-native-ipv6-support/">have offered IPv6 as standard</a> for some time.</p>
+href="https://www.digitalocean.com/">Digital Ocean</a> (<a href="https://www.digitalocean.com/?refcode=547312915d51">referral link</a>). Digital Ocean are good people who have offered native IPv6 as standard on their VMs for some time.</p>
 
 
 </div>

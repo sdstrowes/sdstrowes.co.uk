@@ -8,8 +8,6 @@
 	<link href="/style.css" rel="stylesheet" />
 	<link href="bootstrap/css/bootstrap.min.css" rel="stylesheet" />
 
-	<?php include( "./ga.js" ) ?>
-
 	<!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
 	<!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
 	<!--[if lt IE 9]>
@@ -32,27 +30,42 @@
 
 <div class="publicationList">
 
-<h3>Articles</h3>
-
-<ol>
-	<li>
-		<p class="title"><a href="publications/sdstrowes-2013-tcprtt-cacm.pdf">Passively Measuring TCP Round-Trip Times</a></p>
-		<p class="authors">S.D. Strowes</p>
-		<p class="venue">Communications of the ACM (CACM), vol. 56, no. 10</p>
-		<p class="date">October 2013</p>
-	</li>
-	<li>
-		<p class="title"><a href="publications/sdstrowes-2013-tcprtt-queue.pdf">Passively Measuring TCP Round-Trip Times</a></p>
-		<p class="authors">S.D. Strowes</p>
-		<p class="venue">ACM Queue, vol. 11, no. 8</p>
-		<p class="date">August 2013</p>
-	</li>
-</ol>
-
 
 <h3>Conference and Workshop Publications</h3>
 
 <ol>
+	<li>
+		<p class="title"><a href="publications/gasser-2018-ipv6hitlists.pdf">Clusters in the Expanse: Understanding and Unbiasing IPv6 Hitlists</a></p>
+		<p class="authors">O. Gasser, Q. Scheitle, P. Foremski, Q. Lone, M. Korczynski, S.D. Strowes, L. Hendriks, G. Carle</p>
+		<p class="venue">ACM SIGCOMM Internet Measurement Conference (IMC)</p>
+		<p class="date">November 2018</p>
+	</li>
+	<li>
+		<p class="title"><a href="publications/scheitle-2018-toplists.pdf">A Long Way to the Top: Significance, Structure, and Stability of Internet Top Lists</a></p>
+		<p class="authors">Q. Scheitle, O. Hohlfeld, J. Gamba, J. Jelten, T. Zimmermann, S.D. Strowes, N. Vallina-Rodriguez</p>
+		<p class="venue">ACM SIGCOMM Internet Measurement Conference (IMC)</p>
+		<p class="date">November 2018</p>
+		<p class="awards"><b>Awarded: <a href="https://conferences.sigcomm.org/imc/2018/awards/">Community Contribution Award</a></b></p>
+	</li>
+	<li>
+		<p class="title"><a href="publications/vermeulen-2018-mda.pdf">Multilevel MDA-Lite Paris Traceroute</a></p>
+		<p class="authors">K. Vermeulen, S.D. Strowes, O. Fourmaux, T. Friedman</p>
+		<p class="venue">ACM SIGCOMM Internet Measurement Conference (IMC)</p>
+		<p class="date">November 2018</p>
+	</li>
+  <li>
+	<p class="title"><a href="publications/gigis-anrw17.pdf">Characterizing User-to-User Connectivity with RIPE Atlas</a></p>
+	<p class="authors">P. Gigis, V. Kotronis, E. Aben, S.D. Strowes, and X. Dimitropoulos</p>
+	<p class="venue">ACM, IRTF &amp; ISOC Applied Networking Research Workshop (ANRW) 2017</p>
+	<p class="date">July 2017</p>
+  </li>
+
+  <li>
+	<p class="title"><a href="publications/sdstrowes-2016-yahoo-ipv6.pdf">Diurnal and Weekly Cycles in IPv6 Traffic</a></p>
+	<p class="authors">S.D. Strowes</p>
+	<p class="venue">ACM, IRTF &amp; ISOC Applied Networking Research Workshop (ANRW) 2016</p>
+	<p class="date">July 2016</p>
+  </li>
 
   <li>
 	<p class="title"><a href="publications/sdstrowes-2012-kcores.pdf">Harnessing Internet Topological Stability in
@@ -155,6 +168,35 @@
   </li>
 
 </ol>
+
+<h3>Articles</h3>
+
+<ol>
+	<li>
+		<p class="title"><a href="https://arxiv.org/abs/1710.08536">Bootstrapping Active IPv6 Measurement with IPv4 and Public DNS</a></p>
+		<p class="authors">S.D. Strowes</p>
+		<p class="date">October 2017</p>
+	</li>
+	<li>
+		<p class="title"><a href="publications/sdstrowes-2017-long-prefixes.pdf">No Shortcuts to Long Prefixes</a></p>
+		<p class="authors">S.D. Strowes</p>
+		<p class="venue"><a href="https://www.geant.org/News_and_Events/CONNECT/Documents/CONNECT_26_web_final.pdf">G&Eacute;ANT CONNECT, issue 26</a></p>
+		<p class="date">September 2017</p>
+	</li>
+	<li>
+		<p class="title"><a href="publications/sdstrowes-2013-tcprtt-cacm.pdf">Passively Measuring TCP Round-Trip Times</a></p>
+		<p class="authors">S.D. Strowes</p>
+		<p class="venue">Communications of the ACM (CACM), vol. 56, no. 10</p>
+		<p class="date">October 2013</p>
+	</li>
+	<li>
+		<p class="title"><a href="publications/sdstrowes-2013-tcprtt-queue.pdf">Passively Measuring TCP Round-Trip Times</a></p>
+		<p class="authors">S.D. Strowes</p>
+		<p class="venue">ACM Queue, vol. 11, no. 8</p>
+		<p class="date">August 2013</p>
+	</li>
+</ol>
+
 
 <h3>Journal Articles</h3>
 
